@@ -1,0 +1,61 @@
+D:\Semester 5\CO322 - Data Structures and Algorithm\lab\lab 1>java Sort
+Sorting Times for random array of size 25
+Bubble Sort time = 23800
+Selection Sort time = 18700
+Insertion Sort time = 7000
+Sorting Times for bestcase array of size 25
+Bubble Sort time = 2000
+Selection Sort time = 11400
+Insertion Sort time = 2200
+Sorting Times for worst case array of size 25
+Bubble Sort time = 29200
+Selection Sort time = 23700
+Insertion Sort time = 12800
+Sorting Times for random array of size 250
+Bubble Sort time = 1646500
+Selection Sort time = 848000
+Insertion Sort time = 12400
+Sorting Times for bestcase array of size 250
+Bubble Sort time = 8000
+Selection Sort time = 933400
+Insertion Sort time = 12700
+Sorting Times for worst case array of size 250
+Bubble Sort time = 2148400
+Selection Sort time = 288900
+Insertion Sort time = 1100400
+Sorting Times for random array of size 2500
+Bubble Sort time = 18197100
+Selection Sort time = 9579300
+Insertion Sort time = 176600
+Sorting Times for bestcase array of size 2500
+Bubble Sort time = 64400
+Selection Sort time = 3584200
+Insertion Sort time = 115700
+Sorting Times for worst case array of size 2500
+Bubble Sort time = 7246100
+Selection Sort time = 4769000
+Insertion Sort time = 11539300
+Sorting Times for random array of size 25000
+Bubble Sort time = 1190993100
+Selection Sort time = 228804900
+Insertion Sort time = 199200
+Sorting Times for bestcase array of size 25000
+Bubble Sort time = 138900
+Selection Sort time = 298314200
+Insertion Sort time = 333400
+Sorting Times for worst case array of size 25000
+Bubble Sort time = 618494900
+Selection Sort time = 241349000
+Insertion Sort time = 212670700
+Sorting Times for random array of size 250000
+Bubble Sort time = 126060276700
+Selection Sort time = 33965693900
+Insertion Sort time = 741600
+Sorting Times for bestcase array of size 250000
+Bubble Sort time = 1823600
+Selection Sort time = 52548271100
+Insertion Sort time = 1112500
+Sorting Times for worst case array of size 250000
+Bubble Sort time = 47834829900
+Selection Sort time = 22724171700
+Insertion Sort time = 11339327600

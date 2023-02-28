@@ -1,0 +1,63 @@
+All times are in nano seconds
+
+
+Sorting Times for random array of size 25
+Bubble Sort time = 12400
+Selection Sort time = 12700
+Insertion Sort time = 9000
+Sorting Times for bestcase array of size 25
+Bubble Sort time = 1600
+Selection Sort time = 8700
+Insertion Sort time = 1300
+Sorting Times for worst case array of size 25
+Bubble Sort time = 28200
+Selection Sort time = 6300
+Insertion Sort time = 6500
+Sorting Times for random array of size 250
+Bubble Sort time = 888300
+Selection Sort time = 443400
+Insertion Sort time = 243000
+Sorting Times for bestcase array of size 250
+Bubble Sort time = 4400
+Selection Sort time = 437700
+Insertion Sort time = 6800
+Sorting Times for worst case array of size 250
+Bubble Sort time = 1113200
+Selection Sort time = 152200
+Insertion Sort time = 527000
+Sorting Times for random array of size 2500
+Bubble Sort time = 9031000
+Selection Sort time = 6554500
+Insertion Sort time = 7561400
+Sorting Times for bestcase array of size 2500
+Bubble Sort time = 57500
+Selection Sort time = 1761300
+Insertion Sort time = 16900
+Sorting Times for worst case array of size 2500
+Bubble Sort time = 4058500
+Selection Sort time = 2472100
+Insertion Sort time = 6130500
+Sorting Times for random array of size 25000
+Bubble Sort time = 815166800
+Selection Sort time = 183390100
+Insertion Sort time = 57101700
+Sorting Times for bestcase array of size 25000
+Bubble Sort time = 85300
+Selection Sort time = 174193500
+Insertion Sort time = 46700
+Sorting Times for worst case array of size 25000
+Bubble Sort time = 392484000
+Selection Sort time = 237258900
+Insertion Sort time = 113984000
+Sorting Times for random array of size 250000
+Bubble Sort time = 84344018500
+Selection Sort time = 16509377800
+Insertion Sort time = 5306677100
+Sorting Times for bestcase array of size 250000
+Bubble Sort time = 221000
+Selection Sort time = 16517955700
+Insertion Sort time = 440400
+Sorting Times for worst case array of size 250000
+Bubble Sort time = 17578901000
+Selection Sort time = 22432207900
+Insertion Sort time = 10927040400
